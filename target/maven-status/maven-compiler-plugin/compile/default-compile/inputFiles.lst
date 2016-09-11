@@ -1,0 +1,10 @@
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/Greeting.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/dao/PayeeDao.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/dao/PayeeDaoJDBCTemplate.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/GreetingController.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/dao/PayeeMapper.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/PayeeController.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/Application.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/RecipientController.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/service/FundController.java
+/home/sauku01/workspace/SpringWebService/src/main/java/com/bank/bo/Payee.java
