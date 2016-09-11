@@ -1,4 +1,16 @@
-# SpringWebService
+#how to run.
+clone the project
+go to root folder
+create database using schema under filr.
+/src/main/resources/db.sql
+modify your database properties in database.properties
+run jar using command java -jar target/*.jar 
+
+
+
+
+
+# SpringWebService API's End points
 API
 
 
